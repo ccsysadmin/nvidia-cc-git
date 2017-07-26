@@ -1,4 +1,5 @@
 # $Id$
+# Maintainer: Lutfa Ibtihaji Ilham <sysadmin@cepucyber.com>
 # Maintainer: Sven-Hendrik Haase <sh@lutzhaase.com>
 # Maintainer: Felix Yan <felixonmars@archlinux.org>
 # Contributor: Thomas Baechler <thomas@archlinux.org>
